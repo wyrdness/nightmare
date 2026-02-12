@@ -1,0 +1,277 @@
+{
+  "category": "ENTITY_SPIRIT",
+
+  "meta": {
+    "version": "1.0.0",
+    "schema_version": "1.0.0",
+    "last_updated": "2026-01-14",
+    "repository": "https://github.com/wyrdness/nightmare",
+    "maintainers": [
+      {
+        "name": "Wyrdness Team",
+        "github": "wyrdness",
+        "role": "maintainer"
+      }
+    ],
+    "license": {
+      "data": "CC0-1.0",
+      "content": "CC-BY-4.0"
+    }
+  },
+
+  "phenomenon": {
+    "id": "nightmare",
+    "name": "Nightmare",
+    "aliases": [
+      {
+        "name": "Mare",
+        "language": "Old English",
+        "meaning": "mære - demon, incubus"
+      },
+      {
+        "name": "Night-Mare",
+        "meaning": "Original compound: night visit from Mare demon"
+      }
+    ],
+    "category": "ENTITY_SPIRIT",
+    "subcategory": "Conceptual/Linguistic",
+    "tags": [
+      "etymology",
+      "linguistic-evolution",
+      "sleep-paralysis",
+      "european",
+      "conceptual",
+      "cultural-evolution",
+      "semantic-shift"
+    ],
+    "status": "linguistic",
+    "description": {
+      "summary": "The concept of 'nightmare' as a supernatural entity rather than merely a bad dream. Historically, a nightmare was a visit from the Mare demon—a malevolent spirit that rode sleepers at night, causing terrifying dreams and paralysis.",
+      "full": "The word 'nightmare' represents a fascinating linguistic evolution from supernatural entity to psychological experience. Originally, a nightmare was not a metaphor for a bad dream—it was the literal visit from a demon called a Mare (Old English mære). The Mare was believed to ride sleeping victims like a horse (hence 'mare' in the riding sense, though etymologically unrelated to the word for female horse), sitting on their chests and causing terrifying dreams, paralysis, and suffocating sensations. Every culture developed similar entities to explain sleep paralysis: the Germanic Alp, Slavic Mara, Newfoundland Old Hag, African American Boo Hag, and countless others. The modern usage of 'nightmare' to simply mean 'bad dream' represents a semantic shift where the original supernatural meaning has been largely lost to common knowledge, even as the word remains in daily use. Historical nightmares were almost certainly descriptions of sleep paralysis episodes, a well-documented medical phenomenon now understood as a parasomnia occurring during sleep-wake transitions."
+    },
+    "etymology": {
+      "origin": "Old English 'niht' (night) + 'mære' (demon, incubus, goblin)",
+      "original_meaning": "A night visit from the Mare demon",
+      "modern_meaning": "A frightening or unpleasant dream",
+      "note": "'Mare' (demon) is NOT related to 'mare' (female horse) - coincidental homonym"
+    }
+  },
+
+  "classification": {
+    "taxonomy": {
+      "category": "ENTITY_SPIRIT",
+      "type": "Conceptual Entity",
+      "subtype": "Linguistic Evolution",
+      "variant": "Universal (culture-specific names)"
+    },
+    "related_phenomena": [
+      {
+        "id": "mare",
+        "name": "Mare",
+        "relationship": "etymological_source",
+        "description": "The demon entity that gives nightmare its name"
+      },
+      {
+        "id": "mara",
+        "name": "Mara",
+        "relationship": "cultural_variant",
+        "description": "Slavic/Germanic nightmare spirit"
+      },
+      {
+        "id": "alp",
+        "name": "Alp",
+        "relationship": "cultural_variant",
+        "description": "Germanic male nightmare demon"
+      },
+      {
+        "id": "night-hag",
+        "name": "Night Hag",
+        "relationship": "cultural_variant",
+        "description": "English/Anglo-American nightmare entity"
+      }
+    ]
+  },
+
+  "historical_entity": {
+    "original_concept": {
+      "description": "The Mare was understood as a real supernatural entity, not a metaphor",
+      "characteristics": [
+        "Demon or evil spirit",
+        "Rides or sits on sleeping victims",
+        "Causes terrifying dreams",
+        "Induces paralysis and suffocation sensations",
+        "Leaves victims exhausted"
+      ],
+      "reality_status": "Believed to be literal supernatural attack, not symbolic"
+    },
+    "cultural_variations": [
+      {
+        "culture": "Germanic",
+        "entity": "Alp/Mara",
+        "description": "Shapeshifting nightmare demon with magic hat"
+      },
+      {
+        "culture": "Slavic",
+        "entity": "Mara/Zmora",
+        "description": "Soul that leaves body to ride sleepers"
+      },
+      {
+        "culture": "English",
+        "entity": "Mare/Night Hag",
+        "description": "Old woman or demon that sits on chest"
+      },
+      {
+        "culture": "Gullah (African American)",
+        "entity": "Boo Hag",
+        "description": "Witch that rides victims at night"
+      },
+      {
+        "culture": "Japanese",
+        "entity": "Kanashibari",
+        "description": "Bound by metal"
+      }
+    ]
+  },
+
+  "linguistic_evolution": {
+    "timeline": [
+      {
+        "period": "Old English (pre-1100)",
+        "term": "mære",
+        "meaning": "Demon, incubus, goblin that torments sleepers"
+      },
+      {
+        "period": "Middle English (1100-1500)",
+        "term": "nightmare",
+        "meaning": "Visit from Mare demon at night; the demon itself"
+      },
+      {
+        "period": "Early Modern English (1500-1700)",
+        "term": "nightmare",
+        "meaning": "Attack by demon causing bad dreams; beginning to metaphorically mean the bad dream itself"
+      },
+      {
+        "period": "Modern English (1700-present)",
+        "term": "nightmare",
+        "meaning": "Frightening dream (supernatural entity meaning largely forgotten)"
+      }
+    ],
+    "semantic_shift": {
+      "from": "Supernatural entity that attacks sleepers",
+      "to": "Frightening dream experience",
+      "mechanism": "Metonymy - the cause (Mare demon) became the name for the effect (bad dream)",
+      "preservation": "Original supernatural meaning preserved in folklore studies, lost in common usage"
+    }
+  },
+
+  "cultural_universality": {
+    "observation": "Nearly every human culture has a nightmare entity explaining sleep paralysis",
+    "examples": [
+      "Mare (European)",
+      "Old Hag (Newfoundland)",
+      "Boo Hag (Gullah/African American)",
+      "Kanashibari (Japanese)",
+      "Phi Am (Thai)",
+      "Ogun Oru (Yoruba)",
+      "Pisadeira (Brazilian)",
+      "Jinn attack (Islamic cultures)"
+    ],
+    "explanation": "Universal human experience of sleep paralysis receives culture-specific supernatural interpretation"
+  },
+
+  "sleep_paralysis_connection": {
+    "identification": "Historical 'nightmare' descriptions closely match modern sleep paralysis symptoms",
+    "symptoms_comparison": {
+      "traditional_nightmare": [
+        "Awakens but cannot move",
+        "Heavy weight on chest",
+        "Difficulty breathing",
+        "Sense of malevolent presence",
+        "Terrifying visions",
+        "Inability to speak or cry out"
+      ],
+      "modern_sleep_paralysis": [
+        "Conscious paralysis during sleep-wake transition",
+        "Sensation of chest pressure",
+        "Feeling of suffocation",
+        "Hallucination of presence in room",
+        "Visual/auditory hallucinations",
+        "Unable to vocalize"
+      ]
+    },
+    "conclusion": "Nightmares (as entity attacks) were cultural interpretations of sleep paralysis episodes"
+  },
+
+  "artistic_representation": {
+    "iconic_work": {
+      "title": "The Nightmare",
+      "artist": "Henry Fuseli",
+      "date": "1781",
+      "description": "Famous painting depicting incubus or Mare demon sitting on sleeping woman's chest while a horse's head emerges from darkness",
+      "significance": "Most iconic visual representation of the nightmare entity concept",
+      "note": "The horse in the painting may be a visual pun on 'night-mare' or represent the Mare's riding nature"
+    },
+    "cultural_impact": "Fuseli's work fixed the visual iconography of nightmares in Western consciousness"
+  },
+
+  "scientific_explanation": {
+    "modern_understanding": "What our ancestors called nightmare attacks, we now identify as sleep paralysis with hypnagogic/hypnopompic hallucinations",
+    "physiology": "REM atonia persists into waking consciousness, leaving person aware but paralyzed",
+    "hallucinations": "Hypnagogic hallucinations during sleep-wake transitions, often threatening due to amygdala activation",
+    "status": "Linguistic fossil preserving ancient supernatural interpretation of medical phenomenon"
+  },
+
+  "significance": {
+    "linguistic": "One of few cases where supernatural entity name became commonplace psychological term",
+    "cultural": "Demonstrates how supernatural explanations evolve into naturalistic understanding",
+    "historical": "Preserves folk belief in everyday language even after original meaning forgotten",
+    "universal": "Similar entities across all cultures highlight universal human experiences interpreted through cultural lenses"
+  },
+
+  "cultural": {
+    "evolution": {
+      "description": "The transformation from supernatural entity to psychological term represents major shift in human understanding",
+      "stages": [
+        "Literal belief in nightmare demon",
+        "Partial skepticism but continued usage",
+        "Metaphorical usage",
+        "Complete semantic shift to mean bad dream",
+        "Original meaning preserved only in specialized knowledge"
+      ]
+    },
+    "modern_usage": {
+      "common": "Had a nightmare last night (means: had a bad dream)",
+      "metaphorical": "The project became a nightmare (means: difficult situation)",
+      "awareness": "Most speakers unaware of supernatural entity origin"
+    }
+  },
+
+  "sources": [
+    {
+      "id": "oed-nightmare",
+      "type": "dictionary",
+      "title": "nightmare, n.",
+      "publication": "Oxford English Dictionary",
+      "url": "https://www.oed.com/",
+      "accessed": "2026-01-14"
+    },
+    {
+      "id": "hufford-1982",
+      "type": "book",
+      "title": "The Terror That Comes in the Night",
+      "authors": ["David J. Hufford"],
+      "publication": "University of Pennsylvania Press",
+      "date": "1982",
+      "isbn": "978-0812211139"
+    },
+    {
+      "id": "sharpless-2016",
+      "type": "book",
+      "title": "Sleep Paralysis: Historical, Psychological, and Medical Perspectives",
+      "authors": ["Brian Sharpless", "Karl Doghramji"],
+      "publication": "Oxford University Press",
+      "date": "2015",
+      "isbn": "978-0199313587"
+    }
+  ]
+}

@@ -1,8 +1,8 @@
 {
   "meta": {
-    "version": "1.0.0",
+    "version": "1.1.0",
     "schema_version": "1.0.0",
-    "last_updated": "2026-02-13",
+    "last_updated": "2026-05-07",
     "repository": "https://github.com/wyrdness/nightmare",
     "maintainers": [
       {
@@ -16,72 +16,122 @@
       "content": "CC-BY-4.0"
     }
   },
+
   "phenomenon": {
     "id": "nightmare",
     "name": "Nightmare",
-    "aliases": [],
+    "aliases": [
+      { "name": "Mare", "language": "Old English / Old Norse / Common Germanic", "meaning": "Female demon that 'rides' sleepers" },
+      { "name": "Mære", "language": "Old English" },
+      { "name": "Mara", "language": "Old Norse / Swedish / Polish" },
+      { "name": "Mahr", "language": "German" },
+      { "name": "Nachtmerrie", "language": "Dutch" },
+      { "name": "Mardröm", "language": "Swedish", "meaning": "'Mare-dream'" },
+      { "name": "Cauchemar", "language": "French" },
+      { "name": "Zmora / Mora", "language": "Polish / Slavic" },
+      { "name": "Můra", "language": "Czech" },
+      { "name": "Lidérc / Lidércnyomás", "language": "Hungarian" }
+    ],
     "category": "ENTITY_SPIRIT",
-    "subcategory": "Linguistic Evolution",
+    "subcategory": "Sleep paralysis demon (Germanic / Slavic 'mare')",
     "tags": [
+      "germanic",
+      "slavic",
+      "sleep-paralysis",
+      "mare",
+      "incubus",
       "folklore",
-      "mythology"
+      "etymology"
     ],
     "status": "documented",
     "description": {
-      "summary": "The word **\\\"nightmare\\\"** represents a fascinating linguistic evolution from supernatural entity to psychological experience.",
-      "full": "The word **\\\"nightmare\\\"** represents a fascinating linguistic evolution from supernatural entity to psychological experience."
+      "summary": "The mare — a female demon of Germanic and Slavic folklore that rides sleepers' chests, causing sleep paralysis and bad dreams. The original referent of the modern English word 'nightmare'.",
+      "full": "The original 'nightmare' was not a bad dream but a being: the mare (Old English mære, Old Norse mara, Proto-Germanic *marōn), a female nocturnal demon believed to sit, walk, or 'ride' on the chest of a sleeper, producing the sensation of suffocation and inability to move that we now identify as sleep paralysis. The English word 'nightmare' generalised from this experience to any bad dream around 1829. The mare appears across Germanic and Slavic Europe with consistent phenomenology and rich variation: in Norse tradition she is the mara of the 13th-century Ynglinga saga, who 'rides' King Vanlandi to death; in German folklore she is closely related to the alp (German Albtraum, 'alp-dream'); in Polish and Czech tradition the zmora/můra causes nightmares and is associated with moths. Protective practices were common, including charms, plugged carpenter-holes, and overturned brooms. The word's Indo-European root *mer- evokes 'crushing, pressing, oppressing', mirroring the bodily experience itself."
     },
     "etymology": {
-      "origin": "Unknown",
-      "meaning": "To be documented",
-      "first_use": "Unknown"
+      "origin": "From Old English mære, mare, cognate with Old Norse mara, German Mahr, Dutch (nacht)merrie; ultimately from Proto-Germanic *marōn and Proto-Indo-European *mer- ('crush, press, oppress'). No etymological connection to the modern English 'mare' (female horse).",
+      "meaning": "Originally the female demon of sleep oppression; later, the bad dream associated with her",
+      "first_use": "Old English mære attested in early medieval texts; English 'nightmare' generalised to any bad dream by c. 1829"
     }
   },
+
   "classification": {
     "taxonomy": {
       "category": "ENTITY_SPIRIT",
-      "type": "Linguistic Evolution",
-      "subtype": "Unknown",
-      "variant": "Unknown"
+      "type": "Sleep paralysis demon",
+      "subtype": "Mare / mara",
+      "variant": "Germanic and Slavic"
     },
-    "related_phenomena": []
+    "related_phenomena": [
+      { "id": "night-hag", "name": "Night Hag", "relationship": "similar", "description": "Cross-cultural sleep-paralysis figure; the night-hag and the mare share phenomenology" },
+      { "id": "alp", "name": "Alp", "relationship": "related", "description": "German nightmare-causing entity; closely entwined with the mare in folk tradition" },
+      { "id": "incubus", "name": "Incubus", "relationship": "similar", "description": "Medieval European male sleep-oppression demon" },
+      { "id": "kikimora", "name": "Kikimora", "relationship": "regional_variant", "description": "Slavic household nightmare-causing spirit" }
+    ]
   },
+
   "characteristics": {
     "physical": {
-      "features": [],
-      "morphology": "See README.md for detailed physical description"
+      "features": [
+        { "feature": "Female form", "description": "Most often described as a young or old woman, sometimes a witch", "frequency": "common" },
+        { "feature": "Heavy weight on the chest", "description": "Sits or 'rides' on the sleeper's chest, producing crushing pressure", "frequency": "always" },
+        { "feature": "Shape-shifting", "description": "May appear as a horse, cat, dog, bird, snake, moth, or shadow", "frequency": "common" },
+        { "feature": "Unibrow / joined eyebrows", "description": "In Polish folklore, joined eyebrows mark a person as a potential mare", "frequency": "occasional" }
+      ],
+      "morphology": "Typically anthropomorphic and female, but explicitly shape-shifting in many traditions. In Slavic lore the soul of a witch leaves her body to ride sleepers."
     },
-    "abilities": [],
+    "abilities": [
+      { "ability": "Riding sleepers", "description": "Sits or treads upon a sleeper, producing paralysis and chest pressure", "frequency": "always", "evidence_level": "folklore" },
+      { "ability": "Shape-shifting", "description": "Transforms into animals, moths, or mist to enter through small openings", "frequency": "common", "evidence_level": "folklore" },
+      { "ability": "Causing illness or death", "description": "In the Ynglinga saga, the mara rides King Vanlandi to death", "frequency": "rare", "evidence_level": "folklore" },
+      { "ability": "Causing nightmares", "description": "Generalised role as the source of bad dreams", "frequency": "always", "evidence_level": "folklore" }
+    ],
     "behavior": {
-      "activity_period": "unknown",
-      "disposition": "unknown",
-      "habitat_preference": []
+      "activity_period": "nocturnal",
+      "disposition": "aggressive",
+      "social_structure": "solitary",
+      "habitat_preference": ["bedrooms", "barns", "places of sleep"],
+      "patterns": [
+        "Enters dwellings through cracks or carpenter-made holes",
+        "Preferentially attacks sleepers lying on their back",
+        "Some traditions: a witch's spirit leaves her body during the attack"
+      ]
     }
   },
+
   "distribution": {
     "range": {
-      "description": "Unknown",
-      "continents": [],
-      "countries": [],
-      "regions": []
+      "description": "Germanic and Slavic Europe; the mare and her cognates are documented across Scandinavia, the Low Countries, German-speaking Europe, the British Isles, and Slavic lands.",
+      "continents": ["Europe"],
+      "countries": ["Germany", "Norway", "Sweden", "Denmark", "Iceland", "Netherlands", "United Kingdom", "Poland", "Czech Republic", "Slovakia", "Hungary", "Russia"],
+      "regions": ["Germanic Europe", "Slavic Europe"]
     },
     "hotspots": [],
     "temporal": {
       "first_recorded": {
-        "date": "Unknown",
+        "date": "13th century",
         "circa": true,
-        "source": "Traditional folklore"
-      }
+        "source": "Snorri Sturluson, Ynglinga saga (c. 1230)"
+      },
+      "seasonal_patterns": "None specifically tied to season; episodes correspond to disrupted sleep."
     }
   },
+
   "history": {
     "origins": {
-      "cultural_roots": "Unknown",
-      "earliest_accounts": "See README.md for historical details",
-      "folklore_connections": "Unknown"
+      "cultural_roots": "Common Germanic and Slavic folklore. The mare is one of the most widely attested European supernatural figures, present from Iceland to Russia.",
+      "earliest_accounts": "Old English glosses on mære; the 13th-century Ynglinga saga's account of the mara killing King Vanlandi is the earliest detailed narrative.",
+      "folklore_connections": "Closely tied to the German alp and to medieval Christian incubus/succubus traditions; in Polish lore overlaps with witchcraft and the soul-flight motif."
     },
-    "timeline": []
+    "timeline": [
+      { "date": "c. 1230", "event": "Snorri Sturluson, in the Ynglinga saga, records the death of King Vanlandi of Uppsala at the hands of a mara summoned by the Finnish sorceress Huld at the request of his abandoned wife Drífa", "significance": "Earliest detailed literary account of the mara; foundational reference for Norse mare-tradition", "source": "Snorri Sturluson, Heimskringla / Ynglinga saga" },
+      { "date": "1781", "event": "Henry Fuseli paints The Nightmare, depicting an incubus-like figure crouched on a sleeping woman", "significance": "Iconic visual codification of the mare/incubus motif in Western art", "source": "Detroit Institute of Arts" },
+      { "date": "c. 1829", "event": "English 'nightmare' generalises from sleep paralysis specifically to any bad dream", "significance": "Marks the modern semantic shift", "source": "Standard English etymological dictionaries (cited via Wikipedia)" },
+      { "date": "1835", "event": "Jacob Grimm publishes Deutsche Mythologie, providing extensive documentation of the mare across Germanic tradition", "significance": "Foundational scholarly compilation", "source": "Grimm, J. (1835), Deutsche Mythologie" }
+    ],
+    "modern_era": "Modern sleep medicine identifies the experience underlying mare-traditions as sleep paralysis. The folkloric mare remains a major topic in comparative folklore, including ongoing work on gender, witchcraft, and disease history (e.g. Caroline R. Batten)."
   },
+
   "sightings": {
     "statistics": {
       "total_documented": 0,
@@ -89,38 +139,157 @@
       "disputed": 0,
       "debunked": 0
     },
-    "notable": [],
+    "notable": [
+      {
+        "id": "nightmare-sighting-vanlandi",
+        "name": "Death of King Vanlandi (Ynglinga saga)",
+        "date": { "value": "1230-01-01", "precision": "approximate" },
+        "location": {
+          "description": "Uppsala (legendary Sweden), as recounted in Snorri Sturluson's Heimskringla c. 1230",
+          "country": "Sweden",
+          "region": "Uppland"
+        },
+        "witnesses": { "count": 0, "types": ["Saga narrative"], "credibility_factors": ["Major medieval literary source"] },
+        "description": "Snorri Sturluson's Ynglinga saga relates that King Vanlandi of Uppsala, who had abandoned his wife Drífa, was attacked in his sleep by a mara summoned by the Finnish sorceress Huld. The mara 'rode' him: when his retainers held his head, it 'trod on his legs' until they broke; when they seized his feet, it 'pressed down on his head' until he died.",
+        "credibility": { "rating": "low", "factors": ["Legendary saga narrative, not an eyewitness report"], "notes": "Foundational literary reference; not a historical sighting." },
+        "sources": ["Snorri Sturluson, Ynglinga saga (c. 1230)"],
+        "featured": true
+      }
+    ],
     "database_path": "./sightings/"
   },
+
   "evidence": {
     "physical": [],
     "photographic": [],
     "video": [],
     "audio": [],
-    "trace": []
+    "trace": [],
+    "documentary": [
+      {
+        "id": "nightmare-evidence-ynglinga",
+        "type": "literary source",
+        "name": "Ynglinga saga (c. 1230)",
+        "description": "Snorri Sturluson's account of King Vanlandi's death at the hands of a mara is the earliest detailed narrative of mare-attack in Norse literature.",
+        "status": "verified",
+        "analysis": "Foundational text for Norse mare tradition; cited in essentially all later scholarly treatments.",
+        "source": "Snorri Sturluson, Heimskringla / Ynglinga saga"
+      },
+      {
+        "id": "nightmare-evidence-grimm",
+        "type": "scholarly compilation",
+        "name": "Grimm, Deutsche Mythologie (1835)",
+        "description": "Jacob Grimm's compilation of Germanic mythology provides extensive cross-regional documentation of the mare.",
+        "status": "verified",
+        "analysis": "Standard 19th-century reference for mare-tradition.",
+        "source": "Grimm, J. (1835), Deutsche Mythologie"
+      }
+    ]
   },
+
   "theories": {
-    "paranormal": [],
-    "scientific": [],
-    "skeptical": []
+    "paranormal": [
+      {
+        "name": "Mare as discrete supernatural being",
+        "description": "Within Germanic and Slavic folk traditions the mare is a real, discrete entity — a witch, demon, or spirit — that attacks sleepers.",
+        "proponents": ["Germanic and Slavic folk traditions"],
+        "evidence_cited": ["Ynglinga saga", "Continuity of mare-charms and protective practices across centuries"]
+      }
+    ],
+    "scientific": [
+      {
+        "name": "Sleep paralysis (REM atonia intrusion)",
+        "description": "The bodily phenomenology of mare-attack (paralysis, chest pressure, sense of presence, shadow figures) corresponds to isolated sleep paralysis with hypnopompic hallucinations.",
+        "proponents": ["Sleep medicine consensus", "David J. Hufford"],
+        "evidence_cited": ["Polysomnographic studies", "Cross-cultural prevalence of the experience"]
+      }
+    ],
+    "skeptical": [
+      {
+        "name": "Cultural elaboration of a biological event",
+        "description": "The mare is the Germanic/Slavic cultural elaboration of an underlying neurological event; she is not a real being but the experience she explains is real.",
+        "proponents": ["Folklorists and sleep researchers"],
+        "evidence_cited": ["Constancy of the experience across cultures", "Variability of the entity itself"]
+      }
+    ]
   },
+
   "cultural": {
     "folklore": {
-      "traditions": [],
-      "stories": [],
-      "beliefs": "See README.md for cultural context"
+      "traditions": [
+        "Norse mara tradition (Ynglinga saga)",
+        "German Mahr / alp tradition",
+        "Polish zmora tradition",
+        "Czech můra tradition (with moth-association)",
+        "Hungarian lidérc tradition",
+        "English 'hag-ridden' folk-speech"
+      ],
+      "stories": [
+        "King Vanlandi killed by a mara (Ynglinga saga)",
+        "Folk charms and prayers to ward off the mare (e.g. Westphalian sleep charms)",
+        "Polish accounts of the zmora as a wronged or seventh-daughter woman"
+      ],
+      "beliefs": "Across Germanic and Slavic Europe the mare was treated as a real being; protective practices included charms, plugged carpenter-holes, brooms placed upside-down at doors, knives, and overturned slippers."
     },
     "popular_culture": {
-      "literature": [],
-      "film_tv": [],
+      "literature": [
+        "Snorri Sturluson, Ynglinga saga (c. 1230)",
+        "Jacob Grimm, Deutsche Mythologie (1835)",
+        "Caroline R. Batten, scholarship on the Old English mære"
+      ],
+      "film_tv": [
+        "The Nightmare (2015) — documentary by Rodney Ascher on sleep paralysis"
+      ],
       "games": [],
-      "other": []
+      "music": [],
+      "other": [
+        "Henry Fuseli, The Nightmare (1781) — painting at the Detroit Institute of Arts"
+      ]
     }
   },
+
   "research": {
-    "researchers": [],
+    "researchers": [
+      { "name": "Jacob Grimm", "affiliation": "University of Göttingen / Royal Library of Berlin", "contribution": "Compiled Deutsche Mythologie (1835), the foundational survey of Germanic mare-tradition", "period": "1810s–1860s" },
+      { "name": "Éva Pócs", "affiliation": "University of Pécs (Hungary)", "contribution": "Comparative scholarship on European witchcraft and mare-tradition", "period": "1980s–present" },
+      { "name": "David J. Hufford", "affiliation": "University of Pennsylvania / Penn State College of Medicine", "contribution": "Experiential-source analysis linking the mare/old-hag complex to sleep paralysis", "period": "1970s–present" },
+      { "name": "Caroline R. Batten", "affiliation": "University of Oxford / King's College London", "contribution": "Recent philological and disease-history scholarship on the Old English mære", "period": "2010s–present" }
+    ],
     "organizations": [],
-    "ongoing_studies": "None documented"
+    "ongoing_studies": "Ongoing research at the intersection of folklore, philology, gender history, and sleep medicine, including Caroline R. Batten's work on mære in Old English."
   },
-  "sources": []
+
+  "sources": [
+    {
+      "id": "wikipedia-nightmare",
+      "type": "website",
+      "title": "Nightmare",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Nightmare",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "wikipedia-mare",
+      "type": "website",
+      "title": "Mare (folklore)",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Mare_(folklore)",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "grimm-1835",
+      "type": "book",
+      "title": "Deutsche Mythologie",
+      "authors": ["Jacob Grimm"],
+      "publication": "Dieterich",
+      "date": "1835"
+    },
+    {
+      "id": "snorri-ynglinga",
+      "type": "book",
+      "title": "Heimskringla: Ynglinga saga",
+      "authors": ["Snorri Sturluson"],
+      "date": "c. 1230"
+    }
+  ]
 }

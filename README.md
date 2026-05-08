@@ -1,351 +1,185 @@
 # Nightmare
 
-> *"Not a bad dream—but the demon that brings it."*
+> The mare — a female demon of Germanic and Slavic folklore that rides sleepers' chests, causing sleep paralysis and bad dreams. The original referent of the modern English word 'nightmare'.
 
-[![API Version](https://img.shields.io/badge/api-v1.0.0-blue)]()
-[![Last Updated](https://img.shields.io/badge/updated-2026--01--14-green)]()
-[![Status](https://img.shields.io/badge/status-linguistic-blue)]()
+[![API Version](https://img.shields.io/badge/api-v1.1.0-blue)]() [![Last Updated](https://img.shields.io/badge/updated-2026-05-07-green)]() [![Sightings](https://img.shields.io/badge/sightings-0-orange)]() ![Status](https://img.shields.io/badge/status-documented-blue)
 
 ---
-
 ## Quick Reference
 
 | Property | Value |
-|----------|-------|
+|---|---|
 | **ID** | `nightmare` |
 | **Category** | ENTITY_SPIRIT |
-| **Classification** | Conceptual/Linguistic Entity |
-| **Original Meaning** | Visit from Mare demon |
-| **Modern Meaning** | Frightening dream |
-| **Status** | Linguistic evolution |
+| **Subcategory** | Sleep paralysis demon (Germanic / Slavic 'mare') |
+| **First recorded** | c. 1230 |
+| **Primary range** | Germanic and Slavic Europe |
+| **Status** | documented |
 
 ---
-
 ## Overview
 
-The word **"nightmare"** represents a fascinating linguistic evolution from supernatural entity to psychological experience. 
+The original 'nightmare' was not a bad dream but a being: the mare (Old English mære, Old Norse mara, Proto-Germanic *marōn), a female nocturnal demon believed to sit, walk, or 'ride' on the chest of a sleeper, producing the sensation of suffocation and inability to move that we now identify as sleep paralysis. The English word 'nightmare' generalised from this experience to any bad dream around 1829. The mare appears across Germanic and Slavic Europe with consistent phenomenology and rich variation: in Norse tradition she is the mara of the 13th-century Ynglinga saga, who 'rides' King Vanlandi to death; in German folklore she is closely related to the alp (German Albtraum, 'alp-dream'); in Polish and Czech tradition the zmora/můra causes nightmares and is associated with moths. Protective practices were common, including charms, plugged carpenter-holes, and overturned brooms. The word's Indo-European root *mer- evokes 'crushing, pressing, oppressing', mirroring the bodily experience itself.
 
-**Originally, a nightmare was NOT a metaphor for a bad dream—it was the literal visit from a demon called a Mare** (Old English *mære*). The Mare was believed to ride sleeping victims like a horse, sitting on their chests and causing terrifying dreams, paralysis, and suffocating sensations.
+---
+## Names & Aliases
 
-Every culture developed similar entities to explain sleep paralysis: the Germanic Alp, Slavic Mara, Newfoundland Old Hag, African American Boo Hag, and countless others. The modern usage of "nightmare" to simply mean "bad dream" represents a semantic shift where **the original supernatural meaning has been lost to common knowledge**, even as the word remains in daily use by billions.
+| Name | Origin | Meaning |
+|---|---|---|
+| Mare | Old English / Old Norse / Common Germanic | Female demon that 'rides' sleepers |
+| Mære | Old English |  |
+| Mara | Old Norse / Swedish / Polish |  |
+| Mahr | German |  |
+| Nachtmerrie | Dutch |  |
+| Mardröm | Swedish | 'Mare-dream' |
+| Cauchemar | French |  |
+| Zmora / Mora | Polish / Slavic |  |
+| Můra | Czech |  |
+| Lidérc / Lidércnyomás | Hungarian |  |
 
-Historical nightmares were almost certainly descriptions of **sleep paralysis** episodes, a well-documented medical phenomenon now understood as a parasomnia occurring during sleep-wake transitions.
+## Etymology
+
+- **Origin**: From Old English mære, mare, cognate with Old Norse mara, German Mahr, Dutch (nacht)merrie; ultimately from Proto-Germanic *marōn and Proto-Indo-European *mer- ('crush, press, oppress'). No etymological connection to the modern English 'mare' (female horse).
+- **Meaning**: Originally the female demon of sleep oppression; later, the bad dream associated with her
+- **First use**: Old English mære attested in early medieval texts; English 'nightmare' generalised to any bad dream by c. 1829
+
+---
+## Related Phenomena
+
+- [Night Hag](../night-hag/) — _similar_: Cross-cultural sleep-paralysis figure; the night-hag and the mare share phenomenology
+- [Alp](../alp/) — _related_: German nightmare-causing entity; closely entwined with the mare in folk tradition
+- [Incubus](../incubus/) — _similar_: Medieval European male sleep-oppression demon
+- [Kikimora](../kikimora/) — _regional_variant_: Slavic household nightmare-causing spirit
+
+---
+## Physical Description
+
+- **Morphology**: Typically anthropomorphic and female, but explicitly shape-shifting in many traditions. In Slavic lore the soul of a witch leaves her body to ride sleepers.
+
+### Features
+
+| Feature | Description | Frequency |
+|---|---|---|
+| Female form | Most often described as a young or old woman, sometimes a witch | common |
+| Heavy weight on the chest | Sits or 'rides' on the sleeper's chest, producing crushing pressure | always |
+| Shape-shifting | May appear as a horse, cat, dog, bird, snake, moth, or shadow | common |
+| Unibrow / joined eyebrows | In Polish folklore, joined eyebrows mark a person as a potential mare | occasional |
+
+## Reported Abilities
+
+| Ability | Description | Frequency | Evidence |
+|---|---|---|---|
+| Riding sleepers | Sits or treads upon a sleeper, producing paralysis and chest pressure | always | folklore |
+| Shape-shifting | Transforms into animals, moths, or mist to enter through small openings | common | folklore |
+| Causing illness or death | In the Ynglinga saga, the mara rides King Vanlandi to death | rare | folklore |
+| Causing nightmares | Generalised role as the source of bad dreams | always | folklore |
+
+## Behavior
+
+- **Activity**: nocturnal
+- **Disposition**: aggressive
+- **Social structure**: solitary
+- **Habitat**: bedrooms, barns, places of sleep
+
+---
+## Distribution
+
+Germanic and Slavic Europe; the mare and her cognates are documented across Scandinavia, the Low Countries, German-speaking Europe, the British Isles, and Slavic lands.
+
+
+---
+## Historical Timeline
+
+| Date | Event | Significance |
+|---|---|---|
+| c. 1230 | Snorri Sturluson, in the Ynglinga saga, records the death of King Vanlandi of Uppsala at the hands of a mara summoned by the Finnish sorceress Huld at the request of his abandoned wife Drífa | Earliest detailed literary account of the mara; foundational reference for Norse mare-tradition |
+| 1781 | Henry Fuseli paints The Nightmare, depicting an incubus-like figure crouched on a sleeping woman | Iconic visual codification of the mare/incubus motif in Western art |
+| c. 1829 | English 'nightmare' generalises from sleep paralysis specifically to any bad dream | Marks the modern semantic shift |
+| 1835 | Jacob Grimm publishes Deutsche Mythologie, providing extensive documentation of the mare across Germanic tradition | Foundational scholarly compilation |
+
+---
+## Notable Sightings
+
+### Death of King Vanlandi (Ynglinga saga) ⭐
+> **Date**: 1230-01-01  
+> **Location**: Uppsala (legendary Sweden), as recounted in Snorri Sturluson's Heimskringla c. 1230  
+> **Witnesses**: 0 (Saga narrative)  
+Snorri Sturluson's Ynglinga saga relates that King Vanlandi of Uppsala, who had abandoned his wife Drífa, was attacked in his sleep by a mara summoned by the Finnish sorceress Huld. The mara 'rode' him: when his retainers held his head, it 'trod on his legs' until they broke; when they seized his feet, it 'pressed down on his head' until he died.
+**Credibility**: low — Foundational literary reference; not a historical sighting.
+**Sources**: Snorri Sturluson, Ynglinga saga (c. 1230)
 
 ---
 
-## Etymology: The Hidden Demon
 
-### Breaking Down "Nightmare"
+## Evidence
 
-**NIGHT-MARE**
-- **Night** = time of occurrence
-- **Mare** = the demon (Old English *mære*)
+### Documentary
 
-### NOT About Horses!
-
-**Common Misconception**: "Nightmare" relates to horses (mare = female horse)
-
-**Reality**: The "mare" in "nightmare" is a **coincidental homonym**:
-
-| Mare (demon) | Mare (horse) |
-|--------------|--------------|
-| Old English: *mære* | Old English: *mere* |
-| Proto-Germanic: *marōn* | Proto-Germanic: *markhaz* |
-| Meaning: demon, incubus | Meaning: female horse |
-| **IN "NIGHTMARE"** | **NOT IN "NIGHTMARE"** |
-
-### Linguistic Evolution
-
-| Period | Meaning |
-|--------|---------|
-| **Old English** | mære = demon, incubus, goblin |
-| **Middle English** | nightmare = visit from Mare demon |
-| **Early Modern** | nightmare = demon attack OR the bad dream caused |
-| **Modern** | nightmare = frightening dream (demon meaning lost) |
+| Name | Date | Description | Status |
+|---|---|---|---|
+| Ynglinga saga (c. 1230) |  | Snorri Sturluson's account of King Vanlandi's death at the hands of a mara is the earliest detailed narrative of mare-attack in Norse literature. | verified |
+| Grimm, Deutsche Mythologie (1835) |  | Jacob Grimm's compilation of Germanic mythology provides extensive cross-regional documentation of the mare. | verified |
 
 ---
+## Theories & Explanations
 
-## The Original Entity: The Mare
+### Paranormal / Cryptozoological
 
-### What Was the Mare?
+**Mare as discrete supernatural being** _(Germanic and Slavic folk traditions)_
 
-In traditional belief, the Mare was a **real supernatural entity**, not a metaphor:
+Within Germanic and Slavic folk traditions the mare is a real, discrete entity — a witch, demon, or spirit — that attacks sleepers.
 
-**Characteristics**:
-- Demon or evil spirit
-- Visited sleepers at night
-- Sat on or "rode" the victim's chest
-- Caused terrifying dreams
-- Induced paralysis and suffocation
-- Left victims exhausted and terrified
+### Scientific
 
-**Cultural Understanding**: This was not symbolic—people believed a literal demon was attacking them.
+**Sleep paralysis (REM atonia intrusion)** _(Sleep medicine consensus, David J. Hufford)_
 
----
+The bodily phenomenology of mare-attack (paralysis, chest pressure, sense of presence, shadow figures) corresponds to isolated sleep paralysis with hypnopompic hallucinations.
 
-## Classification
+### Skeptical
 
-### Taxonomy
-```
-Category: ENTITY_SPIRIT
-├── Type: Conceptual Entity
-├── Subtype: Linguistic Evolution
-└── Variant: Universal (culture-specific names)
-```
+**Cultural elaboration of a biological event** _(Folklorists and sleep researchers)_
 
-### Related Phenomena
+The mare is the Germanic/Slavic cultural elaboration of an underlying neurological event; she is not a real being but the experience she explains is real.
 
-| Phenomenon | Relationship | Description |
-|------------|--------------|-------------|
-| [Mare](/mare) | Etymological source | The demon entity that gives nightmare its name |
-| [Mara](/mara) | Cultural variant | Slavic/Germanic nightmare spirit |
-| [Alp](/alp) | Cultural variant | Germanic male nightmare demon |
-| [Night Hag](/night-hag) | Cultural variant | English/Anglo-American entity |
+
+## Popular Culture
+
+**Literature**: Snorri Sturluson, Ynglinga saga (c. 1230); Jacob Grimm, Deutsche Mythologie (1835); Caroline R. Batten, scholarship on the Old English mære
+
+**Film / TV**: The Nightmare (2015) — documentary by Rodney Ascher on sleep paralysis
+
+**Other**: Henry Fuseli, The Nightmare (1781) — painting at the Detroit Institute of Arts
 
 ---
+## Research
 
-## Cultural Variations: Every Culture Has One
+### Researchers
 
-Despite geographic isolation, nearly every human culture developed a nightmare entity:
+| Name | Affiliation | Contribution | Period |
+|---|---|---|---|
+| Jacob Grimm | University of Göttingen / Royal Library of Berlin | Compiled Deutsche Mythologie (1835), the foundational survey of Germanic mare-tradition | 1810s–1860s |
+| Éva Pócs | University of Pécs (Hungary) | Comparative scholarship on European witchcraft and mare-tradition | 1980s–present |
+| David J. Hufford | University of Pennsylvania / Penn State College of Medicine | Experiential-source analysis linking the mare/old-hag complex to sleep paralysis | 1970s–present |
+| Caroline R. Batten | University of Oxford / King's College London | Recent philological and disease-history scholarship on the Old English mære | 2010s–present |
 
-### European Variations
-
-| Culture | Entity | Description |
-|---------|--------|-------------|
-| Germanic | Alp/Mara | Shapeshifting demon with magic hat |
-| Slavic | Mara/Zmora | Soul that rides sleepers |
-| English | Mare/Night Hag | Old woman or demon on chest |
-| Scandinavian | Mara/Mora | Nightmare spirit |
-
-### Global Variations
-
-| Region | Entity | Description |
-|--------|--------|-------------|
-| Newfoundland | Old Hag | Classic sleep paralysis entity |
-| Gullah (African American) | Boo Hag | Witch that rides victims |
-| Japan | Kanashibari | "Bound by metal" |
-| Thailand | Phi Am | Evil spirit pressing down |
-| Brazil | Pisadeira | Old woman who steps on chest |
-| Middle East | Jinn attack | Spirit oppression |
-| Yoruba | Ogun Oru | Night demon |
-
-### Universal Pattern
-
-**Why are they so similar?**
-1. **Universal physiology**: All humans experience sleep paralysis the same way
-2. **Consistent symptoms**: Paralysis + chest pressure + hallucinations
-3. **Cultural interpretation**: Each culture explains the experience through local supernatural framework
-4. **Pattern recognition**: Human brains create explanatory narratives
-
-**Biology creates culture**: The same physiological phenomenon generates similar folklore worldwide.
+Ongoing research at the intersection of folklore, philology, gender history, and sleep medicine, including Caroline R. Batten's work on mære in Old English.
 
 ---
+## Sources
 
-## Historical Nightmare: Sleep Paralysis
+See [SOURCES.md](SOURCES.md) for the complete bibliography.
 
-### Comparing Descriptions
 
-| Traditional "Nightmare Attack" | Modern Sleep Paralysis |
-|-------------------------------|------------------------|
-| Awaken but cannot move | Conscious paralysis during sleep-wake transition |
-| Heavy weight on chest | Hallucinated pressure sensation |
-| Difficulty breathing | Perceived suffocation |
-| Sense of malevolent presence | Hypnagogic hallucination of presence |
-| Terrifying visions | Visual/auditory hallucinations |
-| Inability to speak or cry out | Vocal paralysis |
-| Entity sitting on chest | Cultural interpretation of pressure |
+## How to Report a Sighting
 
-**Conclusion**: Historical "nightmare" descriptions perfectly match modern sleep paralysis symptoms.
+1. **GitHub Issue**: [Submit Sighting Report](../../issues/new?template=sighting_report.yml)
+2. Provide date, location, witnesses, description, conditions, and any evidence.
 
 ---
-
-## The Linguistic Shift
-
-### From Entity to Experience
-
-The word "nightmare" underwent a dramatic transformation:
-
-**Stage 1: Literal Demon** (Pre-1500s)
-- "I was visited by the nightmare"
-- Nightmare = the demon itself
-
-**Stage 2: Demon's Attack** (1500s-1700s)
-- "I suffered a nightmare"
-- Nightmare = the attack by the demon
-
-**Stage 3: The Dream** (1700s-1800s)
-- "I had a nightmare"
-- Nightmare = the bad dream caused by the demon
-
-**Stage 4: Pure Psychology** (1900s-present)
-- "I had a nightmare"
-- Nightmare = bad dream (demon meaning forgotten)
-
-### Metonymy in Action
-
-**Metonymy**: When the cause becomes the name for the effect
-
-- **Cause**: Mare demon attacks
-- **Effect**: Terrifying dream experience
-- **Linguistic shift**: "Nightmare" transferred from demon to dream
-
----
-
-## Modern Usage vs. Original Meaning
-
-### How We Use It Today
-
-**Common usage**:
-- "I had a nightmare last night" = I had a scary dream
-- "This project is a nightmare" = This is very difficult/unpleasant
-- "My worst nightmare" = My greatest fear
-
-**Awareness**: ~1% of speakers know "nightmare" originally meant a demon
-
-### The Lost Meaning
-
-**What most people don't know**:
-- ❌ "Mare" doesn't mean female horse in this word
-- ❌ "Nightmare" isn't a metaphor—it was literal demon belief
-- ❌ The word preserves ancient supernatural folklore
-- ❌ Nearly every culture had the same entity
-
-**Linguistic fossil**: The word preserves ancient belief in everyday speech.
-
----
-
-## Artistic Representation
-
-### "The Nightmare" by Henry Fuseli (1781)
-
-**Most Iconic Visual**:
-- Sleeping woman on bed
-- Demon/incubus sitting on her chest
-- Horse's head emerging from darkness (visual pun on "mare"?)
-- Fixed the visual iconography of nightmares in Western consciousness
-
-**Significance**: This painting became THE visual representation of the nightmare concept, despite being created when the supernatural meaning was already fading.
-
----
-
-## Scientific Explanation
-
-### What Nightmares Really Were
-
-**Modern Understanding**:
-- Nightmares (as entity attacks) = **Sleep paralysis episodes**
-- Universal human physiological phenomenon
-- REM atonia persisting into waking consciousness
-- Hypnagogic/hypnopompic hallucinations
-- Amygdala activation creating fear response
-
-**Status**: Linguistic fossil preserving ancient supernatural interpretation of medical phenomenon
-
----
-
-## Cultural Significance
-
-### Why This Matters
-
-**Linguistic Importance**:
-- One of the few supernatural entities whose name survived into everyday language
-- Demonstrates how supernatural explanations evolve into naturalistic understanding
-- Shows semantic shift from literal to metaphorical to literal again (different meaning)
-- Preserves folklore in language even after belief disappears
-
-**Cultural Evolution**:
-The nightmare's linguistic journey represents humanity's shift from:
-- Supernatural explanations → Scientific understanding
-- Literal demon belief → Psychological terminology
-- Folklore → Medicine
-
-Yet the ancient word survives, carrying its history hidden in plain sight.
-
----
-
-## One of Few Entity-to-Term Evolutions
-
-Most supernatural entities remain in the supernatural realm. The Nightmare is unusual:
-
-**Compare**:
-- **Vampire**: Still supernatural (no common word evolution)
-- **Werewolf**: Still supernatural (no common word evolution)
-- **Ghost**: Still supernatural (no psychological meaning)
-- **NIGHTMARE**: Fully evolved into psychological term ✓
-
-**Success factors**:
-1. Universal human experience (everyone has bad dreams)
-2. Medical explanation available (sleep paralysis)
-3. Frequent occurrence (common enough for everyday usage)
-4. Semantic shift preserved the word while meaning changed
-
----
-
-## The Hidden History in Daily Speech
-
-Every time someone says "nightmare," they unknowingly invoke:
-- Ancient Proto-Indo-European roots (*mor-* = to harm)
-- Germanic demon traditions
-- Pan-European folklore
-- Medieval supernatural beliefs
-- Sleep paralysis experiences
-- Thousands of years of human fear and wonder
-
-All compressed into a single, everyday word.
-
----
-
-## API Reference
-
-Machine-readable data is available in [`api.json`](api.json).
-
-### Data Access
-
-```javascript
-// Using WyrdnessAPI
-const wyrd = new WyrdnessAPI();
-const nightmare = await wyrd.getPhenomenon('nightmare');
-```
-
-### Direct Access
-
-```
-Raw JSON: https://raw.githubusercontent.com/wyrdness/nightmare/main/api.json
-```
-
----
-
-## Sources & References
-
-See [SOURCES.md](SOURCES.md) for complete bibliography.
-
-### Primary Sources
-
-- Oxford English Dictionary. *nightmare, n.*
-- Hufford, D.J. (1982). *The Terror That Comes in the Night*. University of Pennsylvania Press.
-- Sharpless, B. & Doghramji, K. (2015). *Sleep Paralysis: Historical, Psychological, and Medical Perspectives*. Oxford University Press.
-
----
-
-## Changelog
-
-| Version | Date | Changes |
-|---------|------|---------|
-| 1.0.0 | 2026-01-14 | Initial release |
-
----
-
 ## License
 
-- **Content**: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
-- **Data**: [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)
+Content: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)  
+Data: [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)  
 
 ---
-
-<div align="center">
-
-*Part of the [Wyrdness](https://github.com/wyrdness) Paranormal Archive*
-
-[Etymology Explorer](../../issues/new) • [Suggest Correction](../../issues/new?template=correction.yml) • [Full API](api.json)
-
-</div>
+_Auto-generated from `api.json`. Do not edit by hand — edit `api.json` and run `make repo-docs`._
